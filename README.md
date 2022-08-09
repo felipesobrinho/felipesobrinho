@@ -1,5 +1,5 @@
-### Hi there, I'm Felipe Sobrinho👋
-<br>
+### Hi there, I'm Felipe Sobrinho👋 
+#
 <div align="center">
   <a href="https://github.com/felipesobrinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesobrinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,5 +12,8 @@
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-</div>
+  </div>
+  
+  #
+  
+  
