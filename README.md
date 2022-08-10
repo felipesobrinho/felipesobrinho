@@ -22,7 +22,9 @@
   #
   
 - 🔭 FrontEnd Developer
+
 - 🌱 Atualmente aprendendo React! 
+
 - 🚀 Tenho interesse em aprender mais sobre: <br>
       - NodeJS; <br>
       - MySQL; <br>
