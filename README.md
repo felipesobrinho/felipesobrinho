@@ -4,7 +4,6 @@
   </a>
 <br><br>
 - 💻 Desenvolvedor Front-end. <br>
-- 🏡 Brazil, Belo Horizonte, MG. <br>
 
 ##   Sobre Mim
 🤵  Sou um Desenvolvedor e Programador com 18 anos. <br>
