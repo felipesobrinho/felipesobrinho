@@ -5,7 +5,7 @@
 ## 👨‍🎓 About me
 🤵  I am an 18 year old Developer and Programmer. <br>
 🎓  Studying computer science. <br>
-📚  Studying web development since 2019. <br>
+📚  Studying web development since 2020. <br>
 
 ## 🛠 Languages and Frameworks
 
