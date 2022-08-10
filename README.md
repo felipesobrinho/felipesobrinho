@@ -29,6 +29,6 @@
 <div> 
   <strong>Contact me!</strong><br>
   <a href = "felipe.sobrinho.3@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipesobrinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-sobrinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
