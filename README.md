@@ -1,8 +1,5 @@
-## Hi, i'm Felipe Sobrinho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
-  <a href="https://www.linkedin.com/in/felipesobrinho/" target="_blank">
-  <img src="https://img.shields.io/badge/-felipesobrinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-<br><br>
+## Hi, i'm Felipe Sobrinho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+
 - 💻 Front-end Developer <br>
 
 ## 👨‍🎓 About me
@@ -28,3 +25,10 @@
 <strong>Basic Knowledge and Studying</strong><br>
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+<div> 
+  <strong>Contact me!</strong><br>
+  <a href = "felipe.sobrinho.3@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipesobrinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
