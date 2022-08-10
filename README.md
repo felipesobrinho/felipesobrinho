@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hi there, I'm Felipe Sobrinho👋 </h1>
+  <h2> Hi there, I'm Felipe Sobrinho  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> </h1>
   <a href="https://www.linkedin.com/in/felipesobrinho/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-felipesobrinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
