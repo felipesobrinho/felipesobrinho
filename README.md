@@ -7,8 +7,8 @@
 - 🏡 Brazil, Belo Horizonte, MG. <br>
 
 ##   Sobre Mim
-🤵  Sou um Desenvolvedor e Programador com 18 anos <br>
-🎓  Cursando ciência da computação <br>
+🤵  Sou um Desenvolvedor e Programador com 18 anos. <br>
+🎓  Cursando ciência da computação. <br>
 📚  Estudando desenvolvimento web desde 2019. <br>
 
 ## 🛠 Linguagens e Frameworks
