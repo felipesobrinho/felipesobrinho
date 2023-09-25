@@ -14,6 +14,7 @@
 [![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![NextJs](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=fff)](https://nextjs.org/)
 
 <strong>Intermediate to Advanced Knowledge</strong><br>
 
