@@ -3,8 +3,8 @@
 - 💻 Front-end Developer <br>
 
 ## 👨‍🎓 About me
-🤵  I am an 18 year old Developer and Programmer. <br>
-🎓  Studying computer science. <br>
+🤵  I am a Developer and Programmer. <br>
+🎓  Studying System analysis and development. <br>
 📚  Studying web development since 2019. <br>
 
 ## 🛠 Skills and Techs
