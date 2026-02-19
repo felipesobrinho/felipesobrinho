@@ -1,11 +1,10 @@
 ## Hi, i'm Felipe Sobrinho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 💻 Front-end Developer <br>
+- 💻 Fullstack Developer <br>
 
 ## 👨‍🎓 About me
-🤵  I am a Developer and Programmer. <br>
-🎓  Studying System analysis and development. <br>
-📚  Studying web development since 2019. <br>
+🤵  Software Developer and Architect enthusiast <br>
+🎓  Software Engineer Graduate student <br>
 
 ## 🛠 Skills and Techs
 
