@@ -24,7 +24,3 @@ Belo Horizonte, MG · [felipe-nephew.vercel.app](https://felipe-nephew.vercel.ap
 ### Stack
 
 TypeScript · Next.js · React · Node.js · Python · Java · PostgreSQL/Supabase (pgvector) · Prisma · Claude / Claude Code · RAG · OpenTelemetry · Power Automate · Microsoft Graph · Azure · Vercel
-
----
-
-<sub>Repositórios de cursos antigos estão arquivados. Os projetos da PUC Minas e da Pró-Bem são publicados sem dados reais: demos e vídeos usam dados fictícios.</sub>
