@@ -17,7 +17,7 @@ Belo Horizonte, MG · [felipe-nephew.vercel.app](https://felipe-nephew.vercel.ap
 | Opção | Case | Resultado | Prova |
 |---|---|---|---|
 | **Prompts e experimentos** | Kit de documentação com IA: skill no Claude + biblioteca de documentos-modelo (MVP, histórias de usuário, BPMN) | Módulo financeiro: previsão de **6 meses a 1 ano → entregue em 1 semana**; padrão em todo projeto novo da GTI | [`claude-skill-doc-kit`](https://github.com/felipesobrinho/claude-skill-doc-kit) |
-| **Automações** | Power Automate + Microsoft Graph, incluindo as notificações do agendamento de laboratórios | **~30 h/mês economizadas** (30 min a 1 h por automação, quase todas diárias) | [portfólio](https://felipe-nephew.vercel.app/#ia) |
+| **Automações** | Power Automate + Microsoft Graph, incluindo as notificações do agendamento de laboratórios | **~30 h/mês economizadas** (30 min a 1 h por automação, quase todas diárias) | [antes/depois no portfólio](https://felipe-nephew.vercel.app/#ia) · [notificações do agendamento](https://github.com/felipesobrinho/laboratorios-iec) |
 | **Agentes e ferramentas** | Agente de pré-esboço com RAG, saída validada por JSON Schema, triagem humana e painel de observabilidade | Em implementação na GTI; demo com conjunto de avaliação e métricas semanais | [`rag-captacao-demo`](https://github.com/felipesobrinho/rag-captacao-demo) |
 | **Em produção** | Inventário de TI (Next.js 16, Prisma, Supabase, Jest + Playwright) | **~10 usuários, 361 ativos e 152 colaboradores** com alocações | [`InventarioIEC`](https://github.com/felipesobrinho/InventarioIEC) · [`laboratorios-iec`](https://github.com/felipesobrinho/laboratorios-iec) |
 
