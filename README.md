@@ -1,33 +1,30 @@
-## Hi, i'm Felipe Sobrinho <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Felipe Sobrinho
 
-- 💻 Fullstack Developer <br>
+**Engenheiro de Software AI-first** — construo agentes, RAG, automações e ferramentas internas que resolvem problemas reais, da descoberta com a área de negócio ao sistema em produção.
 
-## 👨‍🎓 About me
-🤵  Software Developer and Architect enthusiast <br>
-🎓  Software Engineer Graduate student <br>
+Engenheiro full stack e Product Owner na PUC Minas (IEC) e consultor de automação na Pró-Bem. Desenvolvo com agentes de código (Claude Code, Codex, Antigravity e Cursor) usando harness engineering: spec como contexto e guardrail, revisão humana em toda entrega e observabilidade de custo, latência e qualidade.
 
-## 🛠 Skills and Techs
+Belo Horizonte, MG · [felipe-nephew.vercel.app](https://felipe-nephew.vercel.app) · felipe.sobrinho.3@outlook.com · [LinkedIn](https://www.linkedin.com/in/felipe-sobrinho/)
 
-<strong>Main Skills</strong><br>
-[![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
-[![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![NextJs](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=fff)](https://nextjs.org/)
+### O que estou construindo agora
 
-<strong>Intermediate to Advanced Knowledge</strong><br>
-[![TailwindCss](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)](https://tailwindcss.com/)
-[![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
-[![SASS](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff&style=for-the-badge)](https://sass-lang.com/)
+- **Captação de Projetos com RAG e agentes** (GTI · PUC Minas) — formulário → agente de pré-esboço com RAG (Supabase Vector) e Claude → triagem humana no Teams → documentação → backlog, com traces no OpenTelemetry e relatório semanal de uso da IA. Demo público com dados fictícios: [`rag-captacao-demo`](https://github.com/felipesobrinho/rag-captacao-demo)
+- **Harness de desenvolvimento AI-first** — o método que uso para trabalhar com agentes de código sem vibe coding: [`ai-harness-template`](https://github.com/felipesobrinho/ai-harness-template)
+- **Gestão financeira da Pró-Bem** — aplicação web (Next.js) e desktop (Electron) com Prisma e Vitest, além da digitalização do processo das ONGs assessoradas
 
+### IA aplicada, com prova
 
-<strong>Basic Knowledge and Studying</strong><br>
+| Opção | Case | Resultado | Prova |
+|---|---|---|---|
+| **Prompts e experimentos** | Kit de documentação com IA: skill no Claude + biblioteca de documentos-modelo (MVP, histórias de usuário, BPMN) | Módulo financeiro: previsão de **6 meses a 1 ano → entregue em 1 semana**; padrão em todo projeto novo da GTI | [`claude-skill-doc-kit`](https://github.com/felipesobrinho/claude-skill-doc-kit) |
+| **Automações** | Power Automate + Microsoft Graph, incluindo as notificações do agendamento de laboratórios | **~30 h/mês economizadas** (30 min a 1 h por automação, quase todas diárias) | [portfólio](https://felipe-nephew.vercel.app/#ia) |
+| **Agentes e ferramentas** | Agente de pré-esboço com RAG, saída validada por JSON Schema, triagem humana e painel de observabilidade | Em implementação na GTI; demo com conjunto de avaliação e métricas semanais | [`rag-captacao-demo`](https://github.com/felipesobrinho/rag-captacao-demo) |
+| **Em produção** | Inventário de TI (Next.js 16, Prisma, Supabase, Jest + Playwright) | **~10 usuários, 361 ativos e 152 colaboradores** com alocações | [`InventarioIEC`](https://github.com/felipesobrinho/InventarioIEC) · [`laboratorios-iec`](https://github.com/felipesobrinho/laboratorios-iec) |
 
-[![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+### Stack
 
-<div> 
-  <strong>Contact me!</strong><br>
-  <a href = "mailto:felipe.sobrinho.3@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-sobrinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+TypeScript · Next.js · React · Node.js · Python · Java · PostgreSQL/Supabase (pgvector) · Prisma · Claude / Claude Code · RAG · OpenTelemetry · Power Automate · Microsoft Graph · Azure · Vercel
 
-</div>
+---
+
+<sub>Repositórios de cursos antigos estão arquivados. Os projetos da PUC Minas e da Pró-Bem são publicados sem dados reais: demos e vídeos usam dados fictícios.</sub>
